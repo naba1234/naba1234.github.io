@@ -1,0 +1,2027 @@
+[ 2019-03-11 04:40:39 ] files_iframe_info.xml NOT YET CREATED
+[ 2019-03-11 04:40:39 ] #################################################################
+[ 2019-03-11 04:40:39 ] ######################   SCRAPING STARTED  ######################
+[ 2019-03-11 04:40:39 ] #################################################################
+[ 2019-03-11 04:40:39 ] Create an empty xml file : files_count.xml
+[ 2019-03-11 04:40:39 ] set_files_count_xml() function
+[ 2019-03-11 04:40:39 ] increment +1
+[ 2019-03-11 04:40:39 ] key = 'scraping_reload' |  value = '1'
+[ 2019-03-11 04:40:39 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:40 ] demo email sent !!!
+[ 2019-03-11 04:40:40 ] Number of running request for this user : 1
+[ 2019-03-11 04:40:40 ] Limit of running request by bulk user : 7
+[ 2019-03-11 04:40:40 ] -------------------------------------------
+[ 2019-03-11 04:40:40 ]  Reading From 'report_to_create_file.txt' 
+[ 2019-03-11 04:40:40 ] -------------------------------------------
+[ 2019-03-11 04:40:40 ] err_msg = file not Exist !!!
+[ 2019-03-11 04:40:40 ] -------------------------------------------
+[ 2019-03-11 04:40:40 ] Front Page is Complete = No
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] scraping_front_page() Function ...
+[ 2019-03-11 04:40:40 ] archive_url_origine = https://arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] Scraping of front page ( test number 1/3 )
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Debian Iceweasel/14.0
+[ 2019-03-11 04:40:40 ] set_files_count_xml() function
+[ 2019-03-11 04:40:40 ] key = 'final_archive_url' |  value = 'https://arijitpal4.github.io/'
+[ 2019-03-11 04:40:40 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:40 ] Final Archive URL = https://arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] Create front page row in 'to_create_arr' table
+[ 2019-03-11 04:40:40 ] set_files_count_xml() function
+[ 2019-03-11 04:40:40 ] key = 'html_total' |  value = '1'
+[ 2019-03-11 04:40:40 ] key = 'html_done' |  value = '0'
+[ 2019-03-11 04:40:40 ] key = 'total_size' |  value = '12'
+[ 2019-03-11 04:40:40 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:40 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-03-11 04:40:40 ] Archive url = https://arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] Website url = arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] No www url = arijitpal4.github.io
+[ 2019-03-11 04:40:40 ] Main Domain = github.io
+[ 2019-03-11 04:40:40 ] full archive url = https://arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] archive url = https://arijitpal4.github.io/
+[ 2019-03-11 04:40:40 ] subdomain = arijitpal4
+[ 2019-03-11 04:40:40 ] type( demo or live ) = demo
+[ 2019-03-11 04:40:40 ] max_level = 6
+[ 2019-03-11 04:40:40 ] main folder = arijitpal4.github.io_abc_gmail.com_75xhwmyvx5p
+[ 2019-03-11 04:40:40 ] email = abc@gmail.com
+[ 2019-03-11 04:40:40 ] scrape_html_then_files_in_front_page = Yes
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] Download PDF = 0
+[ 2019-03-11 04:40:40 ] file_path_index = 
+[ 2019-03-11 04:40:40 ] file_path_without_ext_index = 
+[ 2019-03-11 04:40:40 ] strings_to_replace = 
+[ 2019-03-11 04:40:40 ] remove_broken_outbound_links = 1
+[ 2019-03-11 04:40:40 ] redirect_all_404_to_frontpage = No
+[ 2019-03-11 04:40:40 ] force_work_in_local = Yes
+[ 2019-03-11 04:40:40 ] skip_fix_encoding = Yes
+[ 2019-03-11 04:40:40 ] Use Proxy after first scraping fail = Yes
+[ 2019-03-11 04:40:40 ] scraping_reload number = 1
+[ 2019-03-11 04:40:40 ] max_pages_demo = 10
+[ 2019-03-11 04:40:40 ] max_size_demo = 10000
+[ 2019-03-11 04:40:40 ] ------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] set_files_count_xml() function
+[ 2019-03-11 04:40:40 ] key = 'html_total' |  value = '1'
+[ 2019-03-11 04:40:40 ] key = 'html_done' |  value = '0'
+[ 2019-03-11 04:40:40 ] key = 'total_size' |  value = '16'
+[ 2019-03-11 04:40:40 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:40 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-03-11 04:40:40 ] 'index.html' Exist in 'to_create_arr' in the first row ( Completed : No )
+[ 2019-03-11 04:40:40 ] Scraping duration not calculated because front page not created yet
+[ 2019-03-11 04:40:40 ] index.html -> File name found in to_create_arr
+[ 2019-03-11 04:40:40 ] #####################################################################################################
+[ 2019-03-11 04:40:40 ] ###############https://arijitpal4.github.io/ ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2019-03-11 04:40:40 ] ###############Local URL = index.html (code = 200) ###############
+[ 2019-03-11 04:40:40 ] ###############This is front page###############
+[ 2019-03-11 04:40:40 ] ###############Try number = 1###############
+[ 2019-03-11 04:40:40 ] #####################################################################################################
+[ 2019-03-11 04:40:40 ]  Main level =0
+[ 2019-03-11 04:40:40 ] HTML already scraped ( it's probably a front page )
+[ 2019-03-11 04:40:40 ] Original encoding = ASCII
+[ 2019-03-11 04:40:40 ] Original encoding is in probably UTF-8= true
+[ 2019-03-11 04:40:40 ] ----------------------------------------
+[ 2019-03-11 04:40:40 ] Not checking the encoding
+[ 2019-03-11 04:40:40 ] Final encoding = ASCII
+[ 2019-03-11 04:40:40 ] Language = N/A
+[ 2019-03-11 04:40:40 ] set_files_count_xml() function
+[ 2019-03-11 04:40:40 ] key = 'is_pretty_url' |  value = 'false'
+[ 2019-03-11 04:40:40 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:40 ] local_file_path not created yet = index.html
+[ 2019-03-11 04:40:40 ] code = 200
+[ 2019-03-11 04:40:40 ] index.html -> Front page created
+[ 2019-03-11 04:40:40 ] set_files_count_xml() function
+[ 2019-03-11 04:40:40 ] key = 'html_total' |  value = '1'
+[ 2019-03-11 04:40:40 ] key = 'html_done' |  value = '1'
+[ 2019-03-11 04:40:40 ] key = 'total_size' |  value = '28'
+[ 2019-03-11 04:40:40 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:40 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-03-11 04:40:40 ] index.html ( Front page ) : index.html already created so now I need to scrape all extensions and update the index.html file
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-11 04:40:40 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] We still update 'index.html'
+[ 2019-03-11 04:40:40 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] /*******		Extract 'fonts_from_html' files		**********/
+[ 2019-03-11 04:40:40 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] We still update 'index.html'
+[ 2019-03-11 04:40:40 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] /*******		Extract 'css' files		**********/
+[ 2019-03-11 04:40:40 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] We still update 'index.html'
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/css/bootstrap.css
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/css/bootstrap.css
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-11 04:40:40 ] /*******		From    'css/bootstrap.css'      **********/
+[ 2019-03-11 04:40:40 ] /*******		folder_path    'css/'      **********/
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] We still update 'index.html'
+[ 2019-03-11 04:40:40 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-03-11 04:40:40 ] /*******		From    'css/bootstrap.css'      **********/
+[ 2019-03-11 04:40:40 ] /*******		folder_path    'css/'      **********/
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] We still update 'index.html'
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 2
+[ 2019-03-11 04:40:40 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 3
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] This is a broken image :../fonts/glyphicons-halflings-regular.eot
+[ 2019-03-11 04:40:40 ] local_file_path_rel = css/fonts/glyphicons-halflings-regular.eot (Exist = No)
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120724 Debian Iceweasel/15.0
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 2
+[ 2019-03-11 04:40:40 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot?#iefix  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; da-dk) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 3
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] This is a broken image :../fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-03-11 04:40:40 ] local_file_path_rel = css/fonts/glyphicons-halflings-regular.eot (Exist = No)
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff2
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff2
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 2
+[ 2019-03-11 04:40:40 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff2  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 3
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff2
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] This is a broken image :../fonts/glyphicons-halflings-regular.woff2
+[ 2019-03-11 04:40:40 ] local_file_path_rel = css/fonts/glyphicons-halflings-regular.woff (Exist = No)
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0 Iceweasel/15.0
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 2
+[ 2019-03-11 04:40:40 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 3
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.woff
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] This is a broken image :../fonts/glyphicons-halflings-regular.woff
+[ 2019-03-11 04:40:40 ] local_file_path_rel = css/fonts/glyphicons-halflings-regular.woff (Exist = No)
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.ttf
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.ttf
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 2
+[ 2019-03-11 04:40:40 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.ttf  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 3
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.ttf
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] This is a broken image :../fonts/glyphicons-halflings-regular.ttf
+[ 2019-03-11 04:40:40 ] local_file_path_rel = css/fonts/glyphicons-halflings-regular.ttf (Exist = No)
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 2
+[ 2019-03-11 04:40:40 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] TEST 3
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:40 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2019-03-11 04:40:40 ] Code = 404
+[ 2019-03-11 04:40:40 ] HTML found = Yes
+[ 2019-03-11 04:40:40 ]     No sleep!
+[ 2019-03-11 04:40:40 ] ----
+[ 2019-03-11 04:40:40 ] This is a broken image :../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-03-11 04:40:40 ] local_file_path_rel = css/fonts/glyphicons-halflings-regular.svg (Exist = No)
+[ 2019-03-11 04:40:40 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:40 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] 
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-11 04:40:40 ] /*******		From    'css/bootstrap.css'      **********/
+[ 2019-03-11 04:40:40 ] /*******		folder_path    'css/img'      **********/
+[ 2019-03-11 04:40:40 ] /**************************************************************/
+[ 2019-03-11 04:40:40 ] We still update 'index.html'
+[ 2019-03-11 04:40:40 ] count of background images 2
+[ 2019-03-11 04:40:40 ] href_1 =>../fonts/glyphicons-halflings-regular.eot
+[ 2019-03-11 04:40:40 ] href_1 =>../fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-03-11 04:40:40 ] href_1 =>../fonts/glyphicons-halflings-regular.woff2
+[ 2019-03-11 04:40:40 ] href_1 =>../fonts/glyphicons-halflings-regular.woff
+[ 2019-03-11 04:40:40 ] href_1 =>../fonts/glyphicons-halflings-regular.ttf
+[ 2019-03-11 04:40:40 ] href_1 =>../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-03-11 04:40:40 ] file url = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:40 ] ---------------------------------------
+[ 2019-03-11 04:40:40 ] TEST 1
+[ 2019-03-11 04:40:40 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg
+[ 2019-03-11 04:40:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+[ 2019-03-11 04:40:41 ] Code = 404
+[ 2019-03-11 04:40:41 ] HTML found = Yes
+[ 2019-03-11 04:40:41 ]     No sleep!
+[ 2019-03-11 04:40:41 ] ----
+[ 2019-03-11 04:40:41 ] TEST 2
+[ 2019-03-11 04:40:41 ] URL = http://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+[ 2019-03-11 04:40:41 ] Code = 404
+[ 2019-03-11 04:40:41 ] HTML found = Yes
+[ 2019-03-11 04:40:41 ]     No sleep!
+[ 2019-03-11 04:40:41 ] ----
+[ 2019-03-11 04:40:41 ] TEST 3
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/glyphicons-halflings-regular.svg
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+[ 2019-03-11 04:40:41 ] Code = 404
+[ 2019-03-11 04:40:41 ] HTML found = Yes
+[ 2019-03-11 04:40:41 ]     No sleep!
+[ 2019-03-11 04:40:41 ] ----
+[ 2019-03-11 04:40:41 ] This is a broken image :../fonts/glyphicons-halflings-regular.svg
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/glyphicons-halflings-regular.svg (Exist = No)
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] css --> Folder Created !!!
+[ 2019-03-11 04:40:41 ] css/bootstrap.css --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'css' |  value = '1'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/bootstrap.css (Exist = No)
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = 
+[ 2019-03-11 04:40:41 ] Page updated = index.html
+[ 2019-03-11 04:40:41 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/css/font-awesome.css
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/css/font-awesome.css
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'fonts/font-awesome/css/font-awesome.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'fonts/font-awesome/css/'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'fonts/font-awesome/css/font-awesome.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'fonts/font-awesome/css/'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.3.0
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.3.0
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/fonts/font-awesome/fonts --> Folder Created !!!
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.eot --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'fonts' |  value = '1'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.eot (Exist = No)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css : REPLACE '../fonts/fontawesome-webfont.eot?v=4.3.0' WITH 'fonts/font-awesome/fonts/fontawesome-webfont.eot'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = fonts/font-awesome/css/
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.eot (Exist = Yes)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css : REPLACE '../fonts/fontawesome-webfont.eot?#iefix&v=4.3.0' WITH 'fonts/font-awesome/fonts/fontawesome-webfont.eot'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = fonts/font-awesome/css/
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.woff --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'fonts' |  value = '2'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.woff (Exist = No)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css : REPLACE '../fonts/fontawesome-webfont.woff2?v=4.3.0' WITH 'fonts/font-awesome/fonts/fontawesome-webfont.woff'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = fonts/font-awesome/css/
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.3.0
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.woff (Exist = Yes)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css : REPLACE '../fonts/fontawesome-webfont.woff?v=4.3.0' WITH 'fonts/font-awesome/fonts/fontawesome-webfont.woff'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = fonts/font-awesome/css/
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.3.0
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.3.0
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; sv-se) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'fonts' |  value = '3'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf (Exist = No)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css : REPLACE '../fonts/fontawesome-webfont.ttf?v=4.3.0' WITH 'fonts/font-awesome/fonts/fontawesome-webfont.ttf'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = fonts/font-awesome/css/
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.svg --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'fonts' |  value = '4'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.svg (Exist = No)
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css : REPLACE '../fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular' WITH 'fonts/font-awesome/fonts/fontawesome-webfont.svg'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = fonts/font-awesome/css/
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'fonts/font-awesome/css/font-awesome.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'fonts/font-awesome/css/img'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] count of background images 2
+[ 2019-03-11 04:40:41 ] href_1 =>fonts/font-awesome/fonts/fontawesome-webfont.eot
+[ 2019-03-11 04:40:41 ] href_1 =>fonts/font-awesome/fonts/fontawesome-webfont.eot
+[ 2019-03-11 04:40:41 ] href_1 =>fonts/font-awesome/fonts/fontawesome-webfont.woff
+[ 2019-03-11 04:40:41 ] href_1 =>fonts/font-awesome/fonts/fontawesome-webfont.woff
+[ 2019-03-11 04:40:41 ] href_1 =>fonts/font-awesome/fonts/fontawesome-webfont.ttf
+[ 2019-03-11 04:40:41 ] href_1 =>fonts/font-awesome/fonts/fontawesome-webfont.svg
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.svg
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.svg
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130328 Firefox/21.0
+[ 2019-03-11 04:40:41 ] Code = 404
+[ 2019-03-11 04:40:41 ] HTML found = Yes
+[ 2019-03-11 04:40:41 ]     No sleep!
+[ 2019-03-11 04:40:41 ] ----
+[ 2019-03-11 04:40:41 ] TEST 2
+[ 2019-03-11 04:40:41 ] URL = http://arijitpal4.github.io/fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.svg  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+[ 2019-03-11 04:40:41 ] Code = 404
+[ 2019-03-11 04:40:41 ] HTML found = Yes
+[ 2019-03-11 04:40:41 ]     No sleep!
+[ 2019-03-11 04:40:41 ] ----
+[ 2019-03-11 04:40:41 ] TEST 3
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/fonts/font-awesome/css/fonts/font-awesome/fonts/fontawesome-webfont.svg
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+[ 2019-03-11 04:40:41 ] Code = 404
+[ 2019-03-11 04:40:41 ] HTML found = Yes
+[ 2019-03-11 04:40:41 ]     No sleep!
+[ 2019-03-11 04:40:41 ] ----
+[ 2019-03-11 04:40:41 ] This is a broken image :fonts/font-awesome/fonts/fontawesome-webfont.svg
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/img/fontawesome-webfont.svg (Exist = No)
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] fonts/font-awesome/css/font-awesome.css --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'css' |  value = '2'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = fonts/font-awesome/css/font-awesome.css (Exist = No)
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = 
+[ 2019-03-11 04:40:41 ] Page updated = index.html
+[ 2019-03-11 04:40:41 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/css/style.css
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/css/style.css
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20121202 Firefox/17.0 Iceweasel/17.0.1
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'css/style.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'css/'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'css/style.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'css/'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'css/style.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'css/img'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] count of background images 2
+[ 2019-03-11 04:40:41 ] href_1 =>../d56b7060e3962d95341e535810fc58f2.jpg
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/d56b7060e3962d95341e535810fc58f2.jpg
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/d56b7060e3962d95341e535810fc58f2.jpg
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)
+[ 2019-03-11 04:40:41 ] css/img --> Folder Created !!!
+[ 2019-03-11 04:40:41 ] css/img/d56b7060e3962d95341e535810fc58f2.jpg --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '1'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/d56b7060e3962d95341e535810fc58f2.jpg (Exist = No)
+[ 2019-03-11 04:40:41 ] css/style.css : REPLACE '../d56b7060e3962d95341e535810fc58f2.jpg' WITH 'img/d56b7060e3962d95341e535810fc58f2.jpg'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] css/style.css --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'css' |  value = '3'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/style.css (Exist = No)
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = 
+[ 2019-03-11 04:40:41 ] Page updated = index.html
+[ 2019-03-11 04:40:41 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/css/prettyPhoto.css
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/css/prettyPhoto.css
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130328 Firefox/21.0
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'css/prettyPhoto.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'css/'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'css/prettyPhoto.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'css/'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] 
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-11 04:40:41 ] /*******		From    'css/prettyPhoto.css'      **********/
+[ 2019-03-11 04:40:41 ] /*******		folder_path    'css/img'      **********/
+[ 2019-03-11 04:40:41 ] /**************************************************************/
+[ 2019-03-11 04:40:41 ] We still update 'index.html'
+[ 2019-03-11 04:40:41 ] count of background images 2
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite_x.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite_y.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite_y.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite_next.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite_prev.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/default_thumb.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite_x.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/default/loader.gif
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/btnPrevious.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/btnPrevious.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/loader.gif
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/loader.gif
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_square/btnPrevious.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_square/btnPrevious.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/contentPatternTop.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/contentPatternLeft.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/contentPatternRight.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/loader.gif
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/btnPrevious.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/contentPatternBottom.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/facebook/default_thumbnail.gif
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/light_rounded/loader.gif
+[ 2019-03-11 04:40:41 ] href_1 =>../img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-03-11 04:40:41 ] css/img/sprite.png --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '2'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_x.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_x.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; ko-KR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:41 ] css/img/sprite_x.png --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '3'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite_x.png (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite_x.png' WITH 'img/sprite_x.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_y.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_y.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; es-es) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:41 ] css/img/sprite_y.png --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '4'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite_y.png (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite_y.png' WITH 'img/sprite_y.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_y.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite_y.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite_y.png' WITH 'img/sprite_y.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_next.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_next.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Windows NT 5.0; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-03-11 04:40:41 ] css/img/sprite_next.png --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '5'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite_next.png (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite_next.png' WITH 'img/sprite_next.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_prev.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_prev.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; ja-jp) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:41 ] css/img/sprite_prev.png --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '6'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite_prev.png (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite_prev.png' WITH 'img/sprite_prev.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/default_thumb.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/default_thumb.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+[ 2019-03-11 04:40:41 ] css/img/default_thumb.png --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '7'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/default_thumb.png (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/default_thumb.png' WITH 'img/default_thumb.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite_x.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite_x.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite_x.png' WITH 'img/sprite_x.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/default/loader.gif
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/default/loader.gif
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:41 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205
+[ 2019-03-11 04:40:41 ] css/img/loader.gif --> File Created !!!
+[ 2019-03-11 04:40:41 ] set_files_count_xml() function
+[ 2019-03-11 04:40:41 ] increment +1
+[ 2019-03-11 04:40:41 ] key = 'img' |  value = '8'
+[ 2019-03-11 04:40:41 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/loader.gif (Exist = No)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/default/loader.gif' WITH 'img/loader.gif'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:41 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:41 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:41 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:41 ] folder_path = css/img
+[ 2019-03-11 04:40:41 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:41 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:41 ] ---------------------------------------
+[ 2019-03-11 04:40:41 ] TEST 1
+[ 2019-03-11 04:40:41 ] URL = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 2
+[ 2019-03-11 04:40:42 ] URL = http://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnNext.png  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-gb) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 3
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] This is a broken image :../img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = No)
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnPrevious.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnPrevious.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 2
+[ 2019-03-11 04:40:42 ] URL = http://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnPrevious.png  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 3
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnPrevious.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; tr-TR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] This is a broken image :../img/prettyPhoto/light_rounded/btnPrevious.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnPrevious.png (Exist = No)
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:42 ] css/img/contentPattern.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '9'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPattern.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/contentPattern.png' WITH 'img/contentPattern.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPattern.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/contentPattern.png' WITH 'img/contentPattern.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/btnNext.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/btnNext.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-03-11 04:40:42 ] css/img/btnNext.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '10'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/btnNext.png' WITH 'img/btnNext.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/btnPrevious.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/btnPrevious.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)
+[ 2019-03-11 04:40:42 ] css/img/btnPrevious.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '11'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnPrevious.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/btnPrevious.png' WITH 'img/btnPrevious.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/loader.gif
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/loader.gif (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/loader.gif' WITH 'img/loader.gif'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/loader.gif
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/loader.gif (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/loader.gif' WITH 'img/loader.gif'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/btnNext.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/btnNext.png' WITH 'img/btnNext.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_square/btnPrevious.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnPrevious.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_square/btnPrevious.png' WITH 'img/btnPrevious.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/btnNext.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/btnNext.png' WITH 'img/btnNext.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_square/btnPrevious.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnPrevious.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_square/btnPrevious.png' WITH 'img/btnPrevious.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternTop.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternTop.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+[ 2019-03-11 04:40:42 ] css/img/contentPatternTop.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '12'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPatternTop.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/contentPatternTop.png' WITH 'img/contentPatternTop.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternLeft.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternLeft.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+[ 2019-03-11 04:40:42 ] css/img/contentPatternLeft.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '13'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPatternLeft.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/contentPatternLeft.png' WITH 'img/contentPatternLeft.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternRight.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternRight.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+[ 2019-03-11 04:40:42 ] css/img/contentPatternRight.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '14'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPatternRight.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/contentPatternRight.png' WITH 'img/contentPatternRight.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/loader.gif
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/loader.gif (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/loader.gif' WITH 'img/loader.gif'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/btnNext.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/btnNext.png' WITH 'img/btnNext.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/btnPrevious.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnPrevious.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/btnPrevious.png' WITH 'img/btnPrevious.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternBottom.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/facebook/contentPatternBottom.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+[ 2019-03-11 04:40:42 ] css/img/contentPatternBottom.png --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '15'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPatternBottom.png (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/contentPatternBottom.png' WITH 'img/contentPatternBottom.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/sprite.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/sprite.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/sprite.png' WITH 'img/sprite.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/facebook/default_thumbnail.gif
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/prettyPhoto/facebook/default_thumbnail.gif
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-03-11 04:40:42 ] css/img/default_thumbnail.gif --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'img' |  value = '16'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/default_thumbnail.gif (Exist = No)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/facebook/default_thumbnail.gif' WITH 'img/default_thumbnail.gif'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/btnNext.png' WITH 'img/btnNext.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/btnNext.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/btnNext.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/btnNext.png' WITH 'img/btnNext.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/light_rounded/loader.gif
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/loader.gif (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/light_rounded/loader.gif' WITH 'img/loader.gif'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/prettyPhoto/dark_rounded/contentPattern.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/img/contentPattern.png (Exist = Yes)
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css : REPLACE '../img/prettyPhoto/dark_rounded/contentPattern.png' WITH 'img/contentPattern.png'
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = css/img
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] css/prettyPhoto.css --> File Created !!!
+[ 2019-03-11 04:40:42 ] set_files_count_xml() function
+[ 2019-03-11 04:40:42 ] increment +1
+[ 2019-03-11 04:40:42 ] key = 'css' |  value = '4'
+[ 2019-03-11 04:40:42 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:42 ] local_file_path_rel = css/prettyPhoto.css (Exist = No)
+[ 2019-03-11 04:40:42 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:42 ] folder_path = 
+[ 2019-03-11 04:40:42 ] Page updated = index.html
+[ 2019-03-11 04:40:42 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] /*******		End : Extract css files		**********/
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] /*******		Extract 'img' files		**********/
+[ 2019-03-11 04:40:42 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] We still update 'index.html'
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/apple-touch-icon.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/apple-touch-icon.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 2
+[ 2019-03-11 04:40:42 ] URL = http://arijitpal4.github.io/img/apple-touch-icon.png  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 3
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/apple-touch-icon.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130331 Firefox/21.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] This is a broken image :img/apple-touch-icon.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = img/apple-touch-icon.png (Exist = No)
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/apple-touch-icon-72x72.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/apple-touch-icon-72x72.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0 Iceweasel/15.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 2
+[ 2019-03-11 04:40:42 ] URL = http://arijitpal4.github.io/img/apple-touch-icon-72x72.png  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 3
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/apple-touch-icon-72x72.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120724 Debian Iceweasel/15.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] This is a broken image :img/apple-touch-icon-72x72.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = img/apple-touch-icon-72x72.png (Exist = No)
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/img/apple-touch-icon-114x114.png
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/apple-touch-icon-114x114.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 2
+[ 2019-03-11 04:40:42 ] URL = http://arijitpal4.github.io/img/apple-touch-icon-114x114.png  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 3
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/img/apple-touch-icon-114x114.png
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; fr-FR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] This is a broken image :img/apple-touch-icon-114x114.png
+[ 2019-03-11 04:40:42 ] local_file_path_rel = img/apple-touch-icon-114x114.png (Exist = No)
+[ 2019-03-11 04:40:42 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:42 ] /*******		End : Extract img files		**********/
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] /*******		Extract 'background_images' files		**********/
+[ 2019-03-11 04:40:42 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] We still update 'index.html'
+[ 2019-03-11 04:40:42 ] count of background images 2
+[ 2019-03-11 04:40:42 ] /*******		End : Extract background_images files		**********/
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] /*******		Extract 'background_images_in_html' files		**********/
+[ 2019-03-11 04:40:42 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] We still update 'index.html'
+[ 2019-03-11 04:40:42 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] 
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] /*******		Extract 'script' files		**********/
+[ 2019-03-11 04:40:42 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:42 ] /**************************************************************/
+[ 2019-03-11 04:40:42 ] We still update 'index.html'
+[ 2019-03-11 04:40:42 ] file url = https://arijitpal4.github.io/js/modernizr.custom.js
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:42 ] ---------------------------------------
+[ 2019-03-11 04:40:42 ] TEST 1
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/js/modernizr.custom.js
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; tr-TR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 2
+[ 2019-03-11 04:40:42 ] URL = http://arijitpal4.github.io/js/modernizr.custom.js  --> Switch protocol ( Try 'http' )
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 2/6 )
+[ 2019-03-11 04:40:42 ] useragent = Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0
+[ 2019-03-11 04:40:42 ] Code = 404
+[ 2019-03-11 04:40:42 ] HTML found = Yes
+[ 2019-03-11 04:40:42 ]     No sleep!
+[ 2019-03-11 04:40:42 ] ----
+[ 2019-03-11 04:40:42 ] TEST 3
+[ 2019-03-11 04:40:42 ] URL = https://arijitpal4.github.io/js/modernizr.custom.js
+[ 2019-03-11 04:40:42 ] no proxy used ( Test nbr 3/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; ko-KR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:43 ] Code = 404
+[ 2019-03-11 04:40:43 ] HTML found = Yes
+[ 2019-03-11 04:40:43 ]     No sleep!
+[ 2019-03-11 04:40:43 ] ----
+[ 2019-03-11 04:40:43 ] This is a broken image :js/modernizr.custom.js
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/modernizr.custom.js (Exist = No)
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/jquery.1.11.1.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/jquery.1.11.1.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-03-11 04:40:43 ] js --> Folder Created !!!
+[ 2019-03-11 04:40:43 ] js/jquery.1.11.1.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '1'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/jquery.1.11.1.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/bootstrap.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/bootstrap.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-03-11 04:40:43 ] js/bootstrap.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '2'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/bootstrap.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/SmoothScroll.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/SmoothScroll.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:23.0) Gecko/20131011 Firefox/23.0
+[ 2019-03-11 04:40:43 ] js/SmoothScroll.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '3'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/SmoothScroll.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/easypiechart.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/easypiechart.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; fr-FR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-03-11 04:40:43 ] js/easypiechart.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '4'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/easypiechart.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/jquery.prettyPhoto.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/jquery.prettyPhoto.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:23.0) Gecko/20131011 Firefox/23.0
+[ 2019-03-11 04:40:43 ] js/jquery.prettyPhoto.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '5'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/jquery.prettyPhoto.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/jquery.isotope.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/jquery.isotope.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3
+[ 2019-03-11 04:40:43 ] js/jquery.isotope.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '6'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/jquery.isotope.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/jquery.counterup.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/jquery.counterup.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3
+[ 2019-03-11 04:40:43 ] js/jquery.counterup.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '7'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/jquery.counterup.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/waypoints.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/waypoints.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0
+[ 2019-03-11 04:40:43 ] js/waypoints.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '8'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/waypoints.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/jqBootstrapValidation.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/jqBootstrapValidation.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20120721 Debian Iceweasel/15.0
+[ 2019-03-11 04:40:43 ] js/jqBootstrapValidation.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '9'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/jqBootstrapValidation.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/contact_me.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/contact_me.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+[ 2019-03-11 04:40:43 ] js/contact_me.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '10'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/contact_me.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] file url = https://arijitpal4.github.io/js/main.js
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] get_curl_live() function : Start
+[ 2019-03-11 04:40:43 ] ---------------------------------------
+[ 2019-03-11 04:40:43 ] TEST 1
+[ 2019-03-11 04:40:43 ] URL = https://arijitpal4.github.io/js/main.js
+[ 2019-03-11 04:40:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-03-11 04:40:43 ] useragent = Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+[ 2019-03-11 04:40:43 ] js/main.js --> File Created !!!
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] increment +1
+[ 2019-03-11 04:40:43 ] key = 'js' |  value = '11'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] local_file_path_rel = js/main.js (Exist = No)
+[ 2019-03-11 04:40:43 ] update_html_file_path = index.html
+[ 2019-03-11 04:40:43 ] folder_path = 
+[ 2019-03-11 04:40:43 ] Page updated = index.html
+[ 2019-03-11 04:40:43 ] index.html ( Front page ) : update index.html
+[ 2019-03-11 04:40:43 ] -------------------------------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] /*******		End : Extract script files		**********/
+[ 2019-03-11 04:40:43 ] 
+[ 2019-03-11 04:40:43 ] 
+[ 2019-03-11 04:40:43 ] 
+[ 2019-03-11 04:40:43 ] /**************************************************************/
+[ 2019-03-11 04:40:43 ] /*******		Extract 'swf' files		**********/
+[ 2019-03-11 04:40:43 ] /*******		From    'index.html'      **********/
+[ 2019-03-11 04:40:43 ] /**************************************************************/
+[ 2019-03-11 04:40:43 ] We still update 'index.html'
+[ 2019-03-11 04:40:43 ] /*******		End : Extract swf files		**********/
+[ 2019-03-11 04:40:43 ] 
+[ 2019-03-11 04:40:43 ] index.html --> HTML File Created !!!
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------------------
+[ 2019-03-11 04:40:43 ] update  to_create_arr[0][is_done] = 1
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] key = 'html_total' |  value = '1'
+[ 2019-03-11 04:40:43 ] key = 'html_done' |  value = '1'
+[ 2019-03-11 04:40:43 ] key = 'total_size' |  value = '2312'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-03-11 04:40:43 ] create_zip_file_and_send_email() function
+[ 2019-03-11 04:40:43 ] set_files_count_xml() function
+[ 2019-03-11 04:40:43 ] key = 'html_total' |  value = '1'
+[ 2019-03-11 04:40:43 ] key = 'html_done' |  value = '1'
+[ 2019-03-11 04:40:43 ] key = 'total_size' |  value = '2312'
+[ 2019-03-11 04:40:43 ] ----------------------------------------------------------
+[ 2019-03-11 04:40:43 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-03-11 04:40:43 ] Total Size : 2312
+[ 2019-03-11 04:40:43 ] files/demo/arijitpal4.github.io_abc_gmail.com_75xhwmyvx5p_backup.zip ZIP Created !!!
+[ 2019-03-11 04:40:44 ] Error occured when sending email !!!
+[ 2019-03-11 04:40:44 ] Final demo email sent!
+[ 2019-03-11 04:40:44 ] Loading Time = 00:00:06
